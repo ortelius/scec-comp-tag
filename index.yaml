@@ -2,6 +2,17 @@ apiVersion: v1
 entries:
   scec-comp-tag:
   - apiVersion: v2
+    appVersion: 11.0.160
+    created: "2023-09-09T00:18:51.41183357Z"
+    description: Domain microservice
+    digest: 95095e0913a0e758d863223a8f04655c1b9343c91ae2b80bb92d70962b1d5344
+    icon: https://ortelius.github.io/ortelius-charts/logo.png
+    name: scec-comp-tag
+    type: application
+    urls:
+    - https://github.com/ortelius/scec-comp-tag/releases/download/scec-comp-tag-11.0.160/scec-comp-tag-11.0.160.tgz
+    version: 11.0.160
+  - apiVersion: v2
     appVersion: 11.0.158
     created: "2023-09-07T06:47:29.115216119Z"
     description: Domain microservice
@@ -617,4 +628,4 @@ entries:
     urls:
     - https://github.com/ortelius/scec-comp-tag/releases/download/scec-comp-tag-11.0.11/scec-comp-tag-11.0.11.tgz
     version: 11.0.11
-generated: "2023-09-07T06:47:29.114721317Z"
+generated: "2023-09-09T00:18:51.411326966Z"
